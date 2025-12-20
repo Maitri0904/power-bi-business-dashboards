@@ -25,9 +25,10 @@ and ending with business-ready insights through dashboard visualization.
 <h2>🖼️ Dashboard Preview</h2>
 
 <p align="center">
-  <img src="images/Screenshot 2025-12-20 111504.png"
-       alt="Customer Behavior Dashboard"
-       width="900"/>
+  <img 
+      src="https://raw.githubusercontent.com/Maitri0904/Power-BI-Project/main/Customer_behaviour_analysis/Screenshot%202025-12-20%20111504.png"
+          alt="Customer Behavior Dashboard"
+          width="900"
 </p>
 
 <p align="center">
