@@ -13,7 +13,7 @@ The goal is to use <b>data analytics and visualization</b> to select an ideal pl
 Below is the interactive Power BI dashboard developed as part of this project:
 </p>
 
-<img src="t20-player-analysis/Screenshot 2026-02-07 182137.png" alt="T20 Player Analysis Dashboard" width="100%">
+<img src="Screenshot 2026-02-07 182137.png" alt="T20 Player Analysis Dashboard" width="100%">
 
 <hr>
 
