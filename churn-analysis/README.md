@@ -1,5 +1,8 @@
 # 📊 Customer Churn Analysis Dashboard (Power BI)
 
+🎥 **Project Demo Video**  
+👉 (https://drive.google.com/file/d/1MITtAeRfGrnvijg3jWr29ne7pcbfzuPA/view?usp=drive_link)
+
 ## 📌 Project Overview
 This project focuses on analyzing **customer churn behavior** using telecom customer data.  
 The goal is to identify **who is churning, when they churn, and why they churn**, and to provide **data-driven business insights** that help improve customer retention.
